@@ -1,0 +1,75 @@
+
+.container {
+  margin: 5%; auto;
+}
+.para {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 5%;
+    margin-right: 15%;
+}
+.box  {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin-right: 13%;
+    
+}
+.first-box {
+    background-color: red;
+}
+.second-box {
+    background-color: blue;
+}
+.third-box {
+    background-color: black;
+    
+}
+.fourth-box{
+    background-color: red;
+    padding-right: 20%;
+    margin: 0;
+}
+.fifth-box {
+    background-color: blue;
+    padding-right: 30%;
+    margin: 0;
+    position: absolute;
+    left: 25%;
+    right: 5px;
+    top: 65.5%;
+}
+.box1 {
+    width: 300px;
+    height: 300px;
+    margin: 0;
+    
+}
+.seven-box{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute; 
+    top: 120%;
+    padding-right: 43%;
+    
+}
+.six-box {
+    margin-top: 100px;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    padding-left: 100px;
+    position: absolute;
+    right: 13.2%;
+    top: 106.5%
+}
+
+.eight-box{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 70%;
+    top: 98px;
+}

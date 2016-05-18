@@ -1,0 +1,59 @@
+.overall {
+    background-color: lightgrey;
+    padding: 10%;
+}
+
+.container {
+    margin: 30px 80px;
+    background-color: white;
+}
+.para {
+    padding: 1% 10% 0% 10%;
+}
+button {
+    padding: 5px 60px 5px 50px;
+    font-size: 20px;
+    margin-bottom: 2%;
+    position: relative;
+    left: 9%;
+    color: white;
+}
+.first {
+    margin: auto 15px;
+    background-color: red;
+}
+.second {
+    background-color: blue;
+}
+.container2 {
+    margin-top: 100px;
+     margin: 30px 80px;
+    background-color: white;
+    padding-bottom: 50px;
+}
+img {
+    padding-bottom: 0;
+    width:80%;
+    height: 80%;
+    position: relative;
+    left: 5%;
+}
+.image {
+    padding: 50px 0px 0px 50px;
+}
+footer { 
+    color: white;
+    margin: 0px 0px;
+    padding: 10px;
+    background-color: black;
+    position: relative;
+    bottom: 60px;
+}
+ul li{
+    display: inline;
+    padding: 10px;
+}
+ul {
+    position: relative;
+    left: 80%
+}
